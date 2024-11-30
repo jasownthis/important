@@ -1,0 +1,8 @@
+Resources:
+
+	1. CSES problem set : https://cses.fi/problemset/list
+	2. At Coder DP tasks : https://atcoder.jp/contests/dp/tasks
+	3. Code Chef DP learn : https://www.codechef.com/learn/course/dynamic-programming
+	4. Code Forces DP type : https://codeforces.com/blog/entry/325
+	5. Algorithms for CP blog page : https://cp-algorithms.com/#navigation
+	
